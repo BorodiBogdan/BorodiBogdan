@@ -14,4 +14,4 @@
 
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borodibogdan&" alt="borodibogdan" /></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BorodiBogdan&show_icons=true&locale=en&layout=compact" alt="Borodi Bogdan" /></p>
+<p align = "center"> <img href = "https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight"/></p>
