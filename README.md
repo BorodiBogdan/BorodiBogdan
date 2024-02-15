@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Borodi Bogdan</h1>
 <h3 align="center">A Computer Science student from Romania!</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BorodiBogdan&label=Profile%20views&color=0e75b6&style=flat" alt="BorodiBogdan" /> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/BorodiB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
@@ -14,4 +14,4 @@
 
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borodibogdan&" alt="borodibogdan" /></p>
-<p align = "center"> <img href = "https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight"/></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BorodiBogdan&show_icons=true&locale=en&layout=compact" alt="jonathan2667" /></p>
