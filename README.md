@@ -14,4 +14,4 @@
 
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=borodibogdan&" alt="borodibogdan" /></p>
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BorodiBogdan&show_icons=true&locale=en&layout=compact" alt="jonathan2667" /></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BorodiBogdan&show_icons=true&locale=en&layout=compact" alt="borodibogdan" /></p>
